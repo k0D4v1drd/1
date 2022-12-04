@@ -1,3 +1,2 @@
-@echo
 dir 
 pause
